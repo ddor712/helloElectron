@@ -1,0 +1,22 @@
+{
+  "name": "helloelectron",
+  "version": "1.0.0",
+  "description": "beginner electron app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddor712/helloElectron.git"
+  },
+  "author": "ddor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddor712/helloElectron/issues"
+  },
+  "homepage": "https://github.com/ddor712/helloElectron#readme",
+  "devDependencies": {
+    "electron": "^25.3.0"
+  }
+}
